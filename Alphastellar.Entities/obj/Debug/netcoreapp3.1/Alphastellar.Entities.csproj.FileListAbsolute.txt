@@ -1,0 +1,9 @@
+C:\Users\DaKo\source\repos\Alphastellar\Alphastellar.Entities\bin\Debug\netcoreapp3.1\Alphastellar.Entities.deps.json
+C:\Users\DaKo\source\repos\Alphastellar\Alphastellar.Entities\bin\Debug\netcoreapp3.1\Alphastellar.Entities.dll
+C:\Users\DaKo\source\repos\Alphastellar\Alphastellar.Entities\bin\Debug\netcoreapp3.1\Alphastellar.Entities.pdb
+C:\Users\DaKo\source\repos\Alphastellar\Alphastellar.Entities\obj\Debug\netcoreapp3.1\Alphastellar.Entities.csprojAssemblyReference.cache
+C:\Users\DaKo\source\repos\Alphastellar\Alphastellar.Entities\obj\Debug\netcoreapp3.1\Alphastellar.Entities.AssemblyInfoInputs.cache
+C:\Users\DaKo\source\repos\Alphastellar\Alphastellar.Entities\obj\Debug\netcoreapp3.1\Alphastellar.Entities.AssemblyInfo.cs
+C:\Users\DaKo\source\repos\Alphastellar\Alphastellar.Entities\obj\Debug\netcoreapp3.1\Alphastellar.Entities.csproj.CoreCompileInputs.cache
+C:\Users\DaKo\source\repos\Alphastellar\Alphastellar.Entities\obj\Debug\netcoreapp3.1\Alphastellar.Entities.dll
+C:\Users\DaKo\source\repos\Alphastellar\Alphastellar.Entities\obj\Debug\netcoreapp3.1\Alphastellar.Entities.pdb

@@ -1,0 +1,14 @@
+C:\Users\DaKo\source\repos\Alphastellar\Alphastellar.Business\bin\Debug\netcoreapp3.1\Alphastellar.Business.deps.json
+C:\Users\DaKo\source\repos\Alphastellar\Alphastellar.Business\bin\Debug\netcoreapp3.1\Alphastellar.Business.dll
+C:\Users\DaKo\source\repos\Alphastellar\Alphastellar.Business\bin\Debug\netcoreapp3.1\Alphastellar.Business.pdb
+C:\Users\DaKo\source\repos\Alphastellar\Alphastellar.Business\bin\Debug\netcoreapp3.1\Alphastellar.DataAccess.dll
+C:\Users\DaKo\source\repos\Alphastellar\Alphastellar.Business\bin\Debug\netcoreapp3.1\Alphastellar.Entities.dll
+C:\Users\DaKo\source\repos\Alphastellar\Alphastellar.Business\bin\Debug\netcoreapp3.1\Alphastellar.DataAccess.pdb
+C:\Users\DaKo\source\repos\Alphastellar\Alphastellar.Business\bin\Debug\netcoreapp3.1\Alphastellar.Entities.pdb
+C:\Users\DaKo\source\repos\Alphastellar\Alphastellar.Business\obj\Debug\netcoreapp3.1\Alphastellar.Business.csprojAssemblyReference.cache
+C:\Users\DaKo\source\repos\Alphastellar\Alphastellar.Business\obj\Debug\netcoreapp3.1\Alphastellar.Business.AssemblyInfoInputs.cache
+C:\Users\DaKo\source\repos\Alphastellar\Alphastellar.Business\obj\Debug\netcoreapp3.1\Alphastellar.Business.AssemblyInfo.cs
+C:\Users\DaKo\source\repos\Alphastellar\Alphastellar.Business\obj\Debug\netcoreapp3.1\Alphastellar.Business.csproj.CoreCompileInputs.cache
+C:\Users\DaKo\source\repos\Alphastellar\Alphastellar.Business\obj\Debug\netcoreapp3.1\Alphastellar.Business.csproj.CopyComplete
+C:\Users\DaKo\source\repos\Alphastellar\Alphastellar.Business\obj\Debug\netcoreapp3.1\Alphastellar.Business.dll
+C:\Users\DaKo\source\repos\Alphastellar\Alphastellar.Business\obj\Debug\netcoreapp3.1\Alphastellar.Business.pdb

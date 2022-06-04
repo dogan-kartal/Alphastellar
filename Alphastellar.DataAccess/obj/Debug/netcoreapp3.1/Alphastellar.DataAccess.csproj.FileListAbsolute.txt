@@ -1,0 +1,15 @@
+C:\Users\DaKo\source\repos\Alphastellar\Alphastellar.DataAccess\bin\Debug\netcoreapp3.1\Alphastellar.DataAccess.deps.json
+C:\Users\DaKo\source\repos\Alphastellar\Alphastellar.DataAccess\bin\Debug\netcoreapp3.1\Alphastellar.DataAccess.dll
+C:\Users\DaKo\source\repos\Alphastellar\Alphastellar.DataAccess\obj\Debug\netcoreapp3.1\Alphastellar.DataAccess.csprojAssemblyReference.cache
+C:\Users\DaKo\source\repos\Alphastellar\Alphastellar.DataAccess\obj\Debug\netcoreapp3.1\Alphastellar.DataAccess.AssemblyInfoInputs.cache
+C:\Users\DaKo\source\repos\Alphastellar\Alphastellar.DataAccess\obj\Debug\netcoreapp3.1\Alphastellar.DataAccess.AssemblyInfo.cs
+C:\Users\DaKo\source\repos\Alphastellar\Alphastellar.DataAccess\bin\Debug\netcoreapp3.1\Alphastellar.Entities.dll
+C:\Users\DaKo\source\repos\Alphastellar\Alphastellar.DataAccess\bin\Debug\netcoreapp3.1\Alphastellar.DataAccess.runtimeconfig.json
+C:\Users\DaKo\source\repos\Alphastellar\Alphastellar.DataAccess\bin\Debug\netcoreapp3.1\Alphastellar.DataAccess.runtimeconfig.dev.json
+C:\Users\DaKo\source\repos\Alphastellar\Alphastellar.DataAccess\bin\Debug\netcoreapp3.1\Alphastellar.DataAccess.pdb
+C:\Users\DaKo\source\repos\Alphastellar\Alphastellar.DataAccess\bin\Debug\netcoreapp3.1\Alphastellar.Entities.pdb
+C:\Users\DaKo\source\repos\Alphastellar\Alphastellar.DataAccess\obj\Debug\netcoreapp3.1\Alphastellar.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\DaKo\source\repos\Alphastellar\Alphastellar.DataAccess\obj\Debug\netcoreapp3.1\Alphastellar.DataAccess.csproj.CopyComplete
+C:\Users\DaKo\source\repos\Alphastellar\Alphastellar.DataAccess\obj\Debug\netcoreapp3.1\Alphastellar.DataAccess.dll
+C:\Users\DaKo\source\repos\Alphastellar\Alphastellar.DataAccess\obj\Debug\netcoreapp3.1\Alphastellar.DataAccess.pdb
+C:\Users\DaKo\source\repos\Alphastellar\Alphastellar.DataAccess\obj\Debug\netcoreapp3.1\Alphastellar.DataAccess.genruntimeconfig.cache
